@@ -12,10 +12,10 @@ The City is concerned about future housing needs.  The number, type (single, sin
 
 The Hamilton-Perry method is considered an acceptable method for use for subcounty areas in estimating future population projections. The data requirements are the use of two most recent U.S. Census periods   It utilizes cohort change ratios (CCR) which addresses deaths and net migration; and the Child Women Ratio (CWR) which represents surviving births. Using the Hamilton-Perry method, both ratios(CCR, CWR) and population estimations in 10-year increments were calculated using basic EXCEL functions. In order to project 5-year projections, a Linear Interpolation was applied by using the the EXCEL FORECAST.Linear function to the 10-years estimates. 
 
-Evaluating the accuracy of the projections for years 2030 to 2040 is problematic, as the data is not yet available. According to the literature (Baker, et al, 2020), the Hamilton-Perry average error rate for county projections ranges from 6% to 16%. Based on the City of Rockville’s population of 67,000 and it is approximately at the 75th percentile for all U.S. counties, it is surmised that this error rate would apply.
+Evaluating the accuracy of the projections for years 2030 to 2040 is problematic, as the data is not yet available. According to the literature (Baker, et al, 2020), the Hamilton-Perry average error rate for county projections ranges from 6% to 16%. Based on the City of Rockville’s population of 67,000 and it is approximately around the 75th percentile for all U.S. counties, it is surmised that this error rate would apply.
 
 ### Comparison of Future Population Estimates to Future Projected Housing Estimates
-A comparison was made u
+A comparison was made between the future population estimates to the number of residential projects that have been approved (not built) for the 2020-2040 time period. To convert the residental projects to population numbers, a 2020 population multiplier was applied to each type of approved residental housing type (Single Family-Detached, Single-Family Attached, Multi-Family, Senior). Overall, from 2020 to 2040, the city wll population projection will grow by 13,729 people; projected housing 
 
 
 
