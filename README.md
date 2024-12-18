@@ -15,7 +15,8 @@ The Hamilton-Perry method is considered an acceptable method for use for subcoun
 Evaluating the accuracy of the projections for years 2030 to 2040 is problematic, as the data is not yet available. According to the literature (Baker, et al, 2020), the Hamilton-Perry average error rate for county projections ranges from 6% to 16%. Based on the City of Rockville’s population of 67,000 and it is approximately around the 75th percentile for all U.S. counties, it is surmised that this error rate would apply.
 
 ### Comparison of Future Population Estimates to Future Projected Housing Estimates
-A comparison was made between the future population estimates to the number of residential projects that have been approved (not built) for the 2020-2040 time period. To convert the residental projects to population numbers, a 2020 population multiplier was applied to each type of approved residental housing type (Single Family-Detached, Single-Family Attached, Multi-Family, Senior). Overall, from 2020 to 2040, the city wll population projection will grow by 13,729 people; projected housing 
+A comparison was made between the future population estimates to the number of residential projects that have been approved (not built) for the 2020-2040 time period. To convert the residental projects to population numbers, a 2020 population multiplier was applied to each type of approved residental housing type (Single Family-Detached, Single-Family Attached, Multi-Family, Senior). Overall, from 2020 to 2040, the population projection will grow by 13,729 people; projected future housing will approximately serve 13,573 people. The are additional housing projects in the pipeline for this time period that were not included these calculations. The senior population (80+) is projected to grow by 1730 people, projected housing estimate will only serve approxmately 1,011 people.  There are currently no senior housing in the pipeline.
+
 
 
 
